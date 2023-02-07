@@ -95,6 +95,45 @@ Select *
 from data_cleaning.entrepreneurial_fit;"""
 new_df = pd.read_sql_query(sql, engine)
 
+#Find and Remove duplicates
+before = len(data)
+data = data.drop_duplicates()
+after = len(data)
+print('Number of duplicate records dropped: ', str(before - after))
+#No duplicates found
+
+
+#Check for outliers
+stats = data.describe().transpose()
+stats['IQR'] = stats['75%'] - stats['25%']
+stats
+
+outliers = pd.DataFrame(columns=data.columns)
+
+for col in stats.index:
+    iqr = stats.at[col,'IQR']
+    cutoff = iqr * 1.5
+    lower = stats.at[col,'25%'] - cutoff
+    upper = stats.at[col,'75%'] + cutoff
+    results = data[(data[col] < lower) | 
+                   (data[col] > upper)].copy()
+    results['Outlier'] = col
+    outliers = outliers.append(results)
+#No outliers found
+
+
+
+#Check for low variance
+low_variance = []
+
+for col in data._get_numeric_data():
+    minimum = min(data[col])
+    ninety_perc = np.percentile(data[col], 90)
+    if ninety_perc == minimum:
+        low_variance.append(col)
+
+print(low_variance)
+
 
 
 
