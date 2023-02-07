@@ -1,0 +1,200 @@
+,index,education_sector,target_individual_project_,age,gender,city,influenced,perseverance,desire_to_take_initiative,competitiveness,self_reliance,strong_need_to_achieve,self_confidence,good_physical_health,mental_disorder,key_traits,reasons_for_lack,target_ent_competency,no_reason,mental_block,lack_of_knowledge,unwillingness_to_take_risk,not_able_to_take_a_financial_risk,parental_pressure,wants_to_relocate,academic_pressure,just_not_interested
+0,0,Engineering Sciences,False,19.0,False,True,False,2.0,2.0,3.0,3.0,2.0,2.0,3.0,True,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+1,1,Engineering Sciences,True,22.0,False,False,True,3.0,3.0,3.0,4.0,4.0,3.0,4.0,True,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+2,2,Engineering Sciences,False,18.0,False,True,False,3.0,4.0,3.0,3.0,3.0,4.0,4.0,False,passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+3,3,Engineering Sciences,True,20.0,False,True,True,3.0,3.0,3.0,3.0,4.0,3.0,3.0,False,resilience,Not able to take a Financial Risk,0,0,0,0,0,1,0,0,0,0
+4,4,Engineering Sciences,True,19.0,False,True,True,2.0,3.0,3.0,3.0,4.0,3.0,2.0,True,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+5,5,Engineering Sciences,False,19.0,False,True,True,3.0,3.0,3.0,3.0,3.0,3.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+6,6,Engineering Sciences,True,19.0,False,True,True,3.0,2.0,3.0,3.0,4.0,1.0,1.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+7,7,Engineering Sciences,False,20.0,False,True,True,4.0,2.0,4.0,4.0,5.0,3.0,4.0,True,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,1,1
+8,8,Others,True,20.0,False,True,True,2.0,3.0,3.0,1.0,2.0,2.0,2.0,False,passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,1,0
+9,9,Engineering Sciences,True,17.0,False,True,True,2.0,3.0,2.0,1.0,4.0,3.0,3.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+10,10,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,True,False,3.0,3.0,3.0,4.0,3.0,5.0,4.0,False,resilience,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+11,11,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,True,True,3.0,3.0,4.0,4.0,5.0,4.0,5.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+12,12,Engineering Sciences,True,19.0,False,True,True,4.0,4.0,4.0,4.0,4.0,4.0,3.0,True,work ethic,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+13,13,Engineering Sciences,False,21.0,False,True,True,4.0,3.0,4.0,4.0,5.0,4.0,4.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+14,14,Others,False,20.0,False,False,True,2.0,1.0,2.0,3.0,3.0,2.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+15,15,Engineering Sciences,False,18.0,False,True,True,3.0,4.0,3.0,3.0,4.0,4.0,5.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+16,16,Engineering Sciences,True,20.0,False,True,True,3.0,2.0,3.0,2.0,3.0,2.0,2.0,True,vision,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Parental Pressure",0,0,0,0,0,0,1,0,1,1
+17,17,Engineering Sciences,False,21.0,False,True,False,4.0,3.0,4.0,4.0,4.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+18,18,Engineering Sciences,False,19.0,False,True,True,4.0,4.0,4.0,5.0,5.0,3.0,4.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+19,19,Engineering Sciences,False,20.0,True,True,True,3.0,4.0,4.0,5.0,5.0,2.0,4.0,True,passion,"Academic Pressure, Lack of Knowledge, Mental Block",0,0,1,1,0,0,0,0,1,0
+20,20,Engineering Sciences,False,19.0,False,True,False,1.0,3.0,2.0,3.0,3.0,2.0,3.0,True,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+21,21,Engineering Sciences,False,21.0,True,True,True,4.0,5.0,4.0,4.0,5.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+22,22,Engineering Sciences,False,19.0,False,True,True,2.0,3.0,3.0,2.0,3.0,2.0,3.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+23,23,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,True,True,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+24,24,Engineering Sciences,True,20.0,False,True,True,3.0,3.0,3.0,4.0,3.0,3.0,3.0,False,work ethic,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+25,25,Engineering Sciences,False,18.0,False,True,True,3.0,4.0,3.0,4.0,5.0,4.0,4.0,False,vision,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+26,26,"Art, Music or Design",True,21.0,False,True,True,3.0,3.0,3.0,3.0,3.0,3.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+27,27,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,False,True,False,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,work ethic,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+28,28,"Economic Sciences, Business Studies, Commerce and Law",False,23.0,True,True,True,2.0,3.0,3.0,3.0,3.0,3.0,3.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+29,29,Engineering Sciences,False,18.0,False,True,True,4.0,4.0,4.0,5.0,5.0,4.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+30,30,"Economic Sciences, Business Studies, Commerce and Law",True,17.0,False,True,True,3.0,5.0,2.0,4.0,5.0,3.0,5.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+31,31,Engineering Sciences,False,18.0,False,True,True,3.0,3.0,4.0,3.0,3.0,3.0,3.0,False,work ethic,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,0,1,1,0,0,0,1,0
+32,32,Humanities and Social Sciences,False,19.0,False,True,True,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+33,33,Engineering Sciences,True,22.0,False,False,False,4.0,3.0,5.0,5.0,4.0,2.0,4.0,False,resilience,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Parental Pressure, Mental Block",0,0,1,1,0,0,1,0,0,1
+34,34,Engineering Sciences,False,19.0,False,True,True,3.0,3.0,3.0,4.0,5.0,5.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+35,35,"Economic Sciences, Business Studies, Commerce and Law",True,21.0,False,True,True,4.0,4.0,3.0,4.0,4.0,3.0,5.0,False,passion,"Unwillingness to take risk, Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,1,1,0,0,0,0
+36,36,Engineering Sciences,False,19.0,False,True,False,3.0,4.0,4.0,3.0,3.0,4.0,3.0,False,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Unwillingness to take risk, Lack of Knowledge",0,0,0,1,1,0,0,0,0,1
+37,37,"Economic Sciences, Business Studies, Commerce and Law",False,23.0,False,False,True,5.0,4.0,4.0,3.0,5.0,4.0,4.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+38,38,Engineering Sciences,False,18.0,False,True,False,3.0,4.0,4.0,5.0,5.0,3.0,5.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",0,0,0,1,1,1,1,0,1,1
+39,39,Engineering Sciences,False,21.0,False,True,False,3.0,4.0,3.0,3.0,3.0,4.0,4.0,False,positivity,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+40,40,Engineering Sciences,False,18.0,False,False,True,3.0,4.0,2.0,3.0,3.0,4.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+41,41,"Art, Music or Design",True,20.0,False,True,False,4.0,1.0,3.0,4.0,5.0,2.0,2.0,True,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+42,42,Engineering Sciences,True,26.0,False,False,True,2.0,3.0,2.0,3.0,3.0,2.0,3.0,True,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+43,43,Engineering Sciences,False,20.0,True,True,True,5.0,4.0,5.0,5.0,5.0,4.0,5.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+44,44,Engineering Sciences,False,20.0,True,False,False,5.0,4.0,5.0,5.0,4.0,5.0,4.0,True,passion,"Academic Pressure, Lack of Knowledge",0,0,0,1,0,0,0,0,1,0
+45,45,Engineering Sciences,True,21.0,False,True,False,4.0,4.0,5.0,5.0,4.0,4.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+46,46,Engineering Sciences,True,20.0,True,True,False,5.0,3.0,4.0,4.0,5.0,3.0,3.0,False,work ethic,Unwillingness to take risk,0,0,0,0,1,0,0,0,0,0
+47,47,Others,True,20.0,False,True,True,4.0,5.0,5.0,4.0,4.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+48,48,"Medicine, Health Sciences",True,19.0,True,True,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+49,49,Engineering Sciences,True,21.0,True,True,True,4.0,5.0,5.0,5.0,5.0,4.0,4.0,True,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+50,50,Engineering Sciences,True,20.0,False,True,True,2.0,2.0,2.0,3.0,3.0,3.0,2.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+51,51,Engineering Sciences,True,20.0,True,True,True,5.0,5.0,5.0,4.0,5.0,4.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+52,52,Teaching Degree (e.g.B.Ed),False,19.0,False,True,True,3.0,2.0,2.0,2.0,3.0,1.0,2.0,False,work ethic,"Academic Pressure, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk",0,0,1,1,0,1,1,0,1,0
+53,53,Engineering Sciences,True,21.0,False,True,True,4.0,5.0,5.0,5.0,4.0,5.0,5.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+54,54,Engineering Sciences,True,19.0,False,True,True,4.0,4.0,5.0,5.0,5.0,5.0,5.0,True,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+55,55,Engineering Sciences,False,20.0,True,True,False,3.0,4.0,4.0,5.0,4.0,3.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+56,56,Engineering Sciences,False,20.0,True,True,True,3.0,4.0,3.0,5.0,4.0,5.0,3.0,False,positivity,"Lack of Knowledge, Not willing to start a venture in India and waiting for future relocation",0,0,0,1,0,0,0,1,0,0
+57,57,Engineering Sciences,True,19.0,False,True,False,3.0,3.0,3.0,4.0,2.0,4.0,4.0,True,work ethic,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+58,58,Engineering Sciences,True,20.0,False,True,True,3.0,5.0,5.0,4.0,5.0,2.0,4.0,True,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+59,59,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,True,True,3.0,4.0,3.0,3.0,4.0,3.0,4.0,True,work ethic,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+60,60,Engineering Sciences,True,19.0,True,True,False,4.0,5.0,4.0,4.0,5.0,5.0,3.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+61,61,Engineering Sciences,False,19.0,False,True,True,3.0,5.0,4.0,5.0,5.0,5.0,3.0,False,positivity,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+62,62,Engineering Sciences,False,20.0,False,True,True,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,1,1,1,1,1,1,1,1
+63,63,Engineering Sciences,True,19.0,False,True,True,2.0,3.0,1.0,2.0,2.0,1.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+64,64,Engineering Sciences,True,22.0,False,False,False,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+65,65,Engineering Sciences,False,19.0,False,False,True,4.0,5.0,5.0,5.0,4.0,4.0,5.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+66,66,Engineering Sciences,True,20.0,False,True,True,3.0,4.0,4.0,3.0,4.0,3.0,5.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+67,67,Mathematics or Natural Sciences,False,20.0,False,True,True,4.0,4.0,3.0,4.0,4.0,3.0,5.0,False,positivity,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+68,68,"Art, Music or Design",True,24.0,False,True,True,4.0,5.0,5.0,4.0,4.0,4.0,5.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+69,69,Engineering Sciences,False,19.0,False,True,True,2.0,2.0,3.0,3.0,3.0,1.0,2.0,False,resilience,Unwillingness to take risk,0,0,0,0,1,0,0,0,0,0
+70,70,Engineering Sciences,False,19.0,False,True,True,2.0,2.0,3.0,2.0,3.0,3.0,2.0,False,resilience,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+71,71,Engineering Sciences,False,20.0,False,True,True,4.0,4.0,5.0,4.0,4.0,4.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+72,72,"Medicine, Health Sciences",False,20.0,True,True,True,4.0,4.0,3.0,4.0,5.0,3.0,3.0,False,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+73,73,Engineering Sciences,True,21.0,True,True,False,2.0,2.0,2.0,3.0,2.0,2.0,2.0,True,resilience,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+74,74,Engineering Sciences,False,19.0,False,True,True,5.0,5.0,3.0,5.0,5.0,3.0,3.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+75,75,Others,True,21.0,True,True,False,4.0,4.0,5.0,4.0,3.0,3.0,3.0,False,passion,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+77,77,Engineering Sciences,False,19.0,False,False,True,4.0,5.0,4.0,5.0,5.0,4.0,4.0,True,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+78,78,Engineering Sciences,True,19.0,False,True,True,5.0,5.0,5.0,4.0,4.0,5.0,5.0,True,resilience,No Reason,1,1,0,0,0,0,0,0,0,0
+79,79,Engineering Sciences,True,21.0,False,True,False,2.0,3.0,3.0,3.0,3.0,3.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+80,80,Engineering Sciences,False,19.0,False,True,True,3.0,3.0,3.0,3.0,4.0,2.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+81,81,Others,True,19.0,True,True,True,4.0,4.0,4.0,4.0,4.0,5.0,4.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+83,83,Engineering Sciences,False,19.0,False,True,False,4.0,5.0,4.0,4.0,5.0,5.0,4.0,False,positivity,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+84,84,"Economic Sciences, Business Studies, Commerce and Law",False,18.0,False,True,True,4.0,4.0,3.0,4.0,5.0,5.0,4.0,False,vision,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge",0,0,0,1,0,0,0,0,0,1
+85,85,Engineering Sciences,False,20.0,False,True,True,1.0,1.0,1.0,5.0,5.0,5.0,5.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+86,86,"Economic Sciences, Business Studies, Commerce and Law",False,19.0,False,False,True,4.0,5.0,5.0,5.0,5.0,4.0,5.0,False,passion,"Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,0
+87,87,Engineering Sciences,True,20.0,False,True,True,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+88,88,Others,False,20.0,False,True,True,3.0,2.0,3.0,2.0,2.0,3.0,3.0,False,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+89,89,Engineering Sciences,True,20.0,False,True,False,4.0,5.0,4.0,5.0,5.0,3.0,4.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+90,90,Humanities and Social Sciences,True,21.0,False,True,True,4.0,3.0,3.0,5.0,4.0,3.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+91,91,"Economic Sciences, Business Studies, Commerce and Law",True,20.0,False,False,False,3.0,4.0,3.0,4.0,5.0,2.0,3.0,False,vision,Unwillingness to take risk,0,0,0,0,1,0,0,0,0,0
+92,92,Engineering Sciences,True,22.0,False,True,True,2.0,5.0,5.0,3.0,4.0,4.0,5.0,True,positivity,"Lack of Knowledge, Parental Pressure",0,0,0,1,0,0,1,0,0,0
+93,93,"Medicine, Health Sciences",True,20.0,False,True,True,4.0,5.0,5.0,4.0,4.0,5.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+94,94,Others,False,19.0,False,True,True,3.0,3.0,2.0,2.0,3.0,3.0,3.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+95,95,Engineering Sciences,False,20.0,False,True,True,3.0,3.0,3.0,4.0,4.0,3.0,4.0,True,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+96,96,"Economic Sciences, Business Studies, Commerce and Law",True,18.0,True,True,False,4.0,5.0,5.0,4.0,5.0,4.0,4.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+97,97,Engineering Sciences,False,21.0,False,False,False,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+98,98,Others,False,22.0,False,True,True,2.0,2.0,3.0,3.0,3.0,3.0,3.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+99,99,Engineering Sciences,False,19.0,False,False,True,5.0,4.0,5.0,5.0,5.0,4.0,3.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+100,100,"Economic Sciences, Business Studies, Commerce and Law",False,19.0,True,True,True,4.0,3.0,3.0,4.0,5.0,4.0,3.0,False,passion,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge",0,0,0,1,0,0,0,0,0,1
+101,101,Language and Cultural Studies,False,19.0,False,False,True,3.0,5.0,3.0,3.0,5.0,5.0,2.0,False,vision,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Not willing to start a venture in India and waiting for future relocation",0,0,0,0,0,0,0,1,0,1
+102,102,Others,False,19.0,False,True,True,4.0,3.0,3.0,4.0,5.0,5.0,5.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+103,103,Engineering Sciences,True,20.0,False,True,True,3.0,3.0,5.0,3.0,5.0,4.0,2.0,True,vision,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,0,1,1,0,0,0,1,0
+104,104,"Medicine, Health Sciences",True,20.0,True,True,False,5.0,4.0,5.0,5.0,5.0,5.0,3.0,True,work ethic,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+105,105,Humanities and Social Sciences,False,20.0,False,True,True,4.0,4.0,5.0,5.0,5.0,5.0,5.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+106,106,Engineering Sciences,True,20.0,False,True,False,5.0,4.0,4.0,4.0,4.0,5.0,3.0,False,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Not able to take a Financial Risk",0,0,0,0,0,1,0,0,1,1
+107,107,Engineering Sciences,True,22.0,False,False,True,3.0,4.0,4.0,4.0,5.0,5.0,5.0,False,passion,"Parental Pressure, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,0,0,0,1,1,1,0,0
+108,108,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,True,True,4.0,3.0,5.0,4.0,5.0,4.0,3.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+109,109,"Art, Music or Design",True,20.0,False,True,True,5.0,5.0,5.0,5.0,4.0,5.0,4.0,True,passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+110,110,"Medicine, Health Sciences",False,20.0,False,True,False,5.0,4.0,4.0,5.0,5.0,4.0,5.0,False,vision,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+111,111,Humanities and Social Sciences,False,19.0,True,True,True,3.0,5.0,2.0,4.0,4.0,4.0,2.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+112,112,Engineering Sciences,True,20.0,False,True,True,5.0,5.0,4.0,4.0,5.0,5.0,3.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge",0,0,0,1,0,0,0,0,1,1
+113,113,Engineering Sciences,True,20.0,False,True,False,4.0,3.0,5.0,4.0,5.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+114,114,Engineering Sciences,False,19.0,False,True,True,4.0,4.0,4.0,5.0,5.0,4.0,5.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+115,115,Engineering Sciences,True,20.0,False,True,True,5.0,5.0,5.0,5.0,4.0,4.0,4.0,False,work ethic,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+116,116,Engineering Sciences,True,18.0,False,True,False,2.0,3.0,3.0,2.0,2.0,2.0,3.0,False,positivity,"Academic Pressure, Not able to take a Financial Risk",0,0,0,0,0,1,0,0,1,0
+117,117,"Economic Sciences, Business Studies, Commerce and Law",False,17.0,False,True,False,5.0,4.0,4.0,5.0,5.0,5.0,5.0,False,positivity,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+118,118,"Economic Sciences, Business Studies, Commerce and Law",True,19.0,False,False,True,3.0,4.0,5.0,5.0,5.0,4.0,5.0,False,work ethic,Mental Block,0,0,1,0,0,0,0,0,0,0
+119,119,Engineering Sciences,False,20.0,False,True,False,2.0,3.0,3.0,2.0,3.0,2.0,2.0,True,positivity,"Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,0
+120,120,"Art, Music or Design",False,20.0,True,True,True,4.0,4.0,3.0,4.0,5.0,4.0,3.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+121,121,"Medicine, Health Sciences",True,20.0,False,True,True,3.0,5.0,5.0,5.0,3.0,4.0,5.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+122,122,Engineering Sciences,True,20.0,True,True,False,3.0,4.0,4.0,4.0,4.0,3.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+123,123,Engineering Sciences,True,21.0,False,True,True,5.0,3.0,4.0,4.0,4.0,4.0,3.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,0,1,0,1,0,1,0,1
+124,124,Mathematics or Natural Sciences,True,20.0,False,True,True,2.0,3.0,2.0,1.0,2.0,3.0,2.0,True,vision,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+125,125,Engineering Sciences,False,20.0,True,True,False,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,1
+126,126,Engineering Sciences,True,21.0,False,True,True,3.0,5.0,5.0,4.0,5.0,5.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+127,127,Engineering Sciences,True,20.0,False,True,True,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+128,128,Engineering Sciences,True,20.0,True,True,True,4.0,5.0,4.0,4.0,4.0,5.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+129,129,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,False,True,True,3.0,3.0,3.0,3.0,3.0,3.0,3.0,False,positivity,"Academic Pressure, Not able to take a Financial Risk",0,0,0,0,0,1,0,0,1,0
+130,130,Engineering Sciences,True,20.0,True,True,True,3.0,5.0,4.0,4.0,5.0,4.0,4.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+131,131,Engineering Sciences,True,20.0,False,True,True,4.0,3.0,3.0,3.0,4.0,4.0,4.0,False,passion,Not able to take a Financial Risk,0,0,0,0,0,1,0,0,0,0
+132,132,Engineering Sciences,True,20.0,True,True,True,3.0,4.0,4.0,4.0,5.0,5.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+133,133,Others,False,20.0,True,True,True,4.0,5.0,5.0,4.0,5.0,4.0,3.0,False,passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+134,134,Engineering Sciences,True,20.0,False,True,True,3.0,3.0,3.0,4.0,4.0,4.0,4.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+135,135,"Art, Music or Design",True,20.0,False,True,True,3.0,3.0,3.0,3.0,3.0,3.0,3.0,False,passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,1,1,1,1,1,1,1,0
+136,136,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,False,True,False,1.0,2.0,1.0,2.0,3.0,2.0,2.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,1
+137,137,Engineering Sciences,True,20.0,False,unknown,False,5.0,5.0,5.0,5.0,5.0,5.0,5.0,True,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+138,138,Others,True,20.0,False,True,True,3.0,4.0,4.0,4.0,3.0,3.0,4.0,True,passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+139,139,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,False,False,True,2.0,2.0,3.0,2.0,3.0,3.0,2.0,True,resilience,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,0,1,0,1,0,1,1,0
+140,140,Engineering Sciences,True,20.0,False,True,True,4.0,5.0,5.0,5.0,4.0,5.0,4.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+141,141,Engineering Sciences,True,20.0,False,True,True,3.0,4.0,3.0,5.0,5.0,5.0,5.0,False,passion,"Academic Pressure, Lack of Knowledge, Parental Pressure",0,0,0,1,0,0,1,0,1,0
+142,142,Engineering Sciences,True,20.0,False,True,False,4.0,4.0,4.0,4.0,4.0,4.0,4.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+143,143,Engineering Sciences,True,20.0,False,True,True,2.0,2.0,2.0,2.0,2.0,2.0,2.0,False,vision,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,1
+144,144,"Economic Sciences, Business Studies, Commerce and Law",True,20.0,False,True,True,3.0,4.0,3.0,5.0,4.0,3.0,2.0,True,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+145,145,"Economic Sciences, Business Studies, Commerce and Law",False,21.0,False,False,True,3.0,4.0,3.0,4.0,5.0,3.0,4.0,True,passion,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+146,146,Engineering Sciences,True,20.0,False,False,False,3.0,4.0,5.0,5.0,3.0,4.0,4.0,False,passion,"Lack of Knowledge, Parental Pressure",0,0,0,1,0,0,1,0,0,0
+147,147,"Medicine, Health Sciences",False,19.0,False,True,False,3.0,1.0,3.0,4.0,3.0,3.0,5.0,False,passion,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,1,1
+148,148,Engineering Sciences,True,20.0,False,False,True,4.0,4.0,4.0,4.0,5.0,5.0,5.0,False,positivity,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+149,149,"Economic Sciences, Business Studies, Commerce and Law",False,18.0,True,True,True,4.0,3.0,4.0,4.0,4.0,5.0,5.0,True,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+150,150,Engineering Sciences,False,22.0,False,True,False,2.0,3.0,2.0,3.0,3.0,3.0,3.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+151,151,"Economic Sciences, Business Studies, Commerce and Law",False,19.0,False,True,True,2.0,3.0,2.0,3.0,2.0,2.0,1.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+152,152,"Art, Music or Design",False,19.0,True,True,True,2.0,2.0,2.0,2.0,2.0,2.0,2.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+153,153,"Medicine, Health Sciences",False,17.0,True,True,False,3.0,2.0,1.0,3.0,3.0,2.0,3.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+154,154,Mathematics or Natural Sciences,False,18.0,True,True,True,2.0,1.0,3.0,1.0,2.0,3.0,4.0,False,work ethic,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+155,155,Others,True,20.0,True,True,False,2.0,2.0,2.0,2.0,2.0,1.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+156,156,Others,True,19.0,False,True,True,4.0,5.0,5.0,5.0,5.0,4.0,4.0,False,positivity,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Unwillingness to take risk",0,0,0,0,1,0,0,0,0,1
+157,157,"Art, Music or Design",False,22.0,True,True,True,4.0,3.0,4.0,5.0,5.0,4.0,3.0,False,positivity,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+158,158,"Art, Music or Design",True,21.0,False,True,True,2.0,1.0,2.0,2.0,2.0,1.0,1.0,False,vision,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+159,159,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,True,unknown,True,2.0,1.0,1.0,2.0,2.0,2.0,1.0,False,resilience,"Academic Pressure, Unwillingness to take risk, Parental Pressure, Not able to take a Financial Risk",0,0,0,0,1,1,1,0,1,0
+160,160,"Art, Music or Design",False,21.0,False,False,False,1.0,1.0,1.0,1.0,5.0,5.0,5.0,False,passion,"Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,0,0,0,0,1,0,1,0,0
+161,161,"Economic Sciences, Business Studies, Commerce and Law",True,25.0,True,True,True,4.0,4.0,3.0,3.0,3.0,4.0,4.0,False,passion,"Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk",0,0,1,1,0,1,1,0,0,0
+162,162,"Medicine, Health Sciences",True,22.0,False,False,True,2.0,1.0,2.0,3.0,2.0,3.0,3.0,True,vision,"Academic Pressure, Unwillingness to take risk, Not able to take a Financial Risk",0,0,0,0,1,1,0,0,1,0
+163,163,"Art, Music or Design",True,21.0,False,False,True,2.0,2.0,3.0,3.0,3.0,3.0,3.0,False,passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+164,164,"Art, Music or Design",True,21.0,False,True,False,4.0,4.0,4.0,3.0,4.0,5.0,5.0,False,passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,1,0
+165,165,"Teaching Degree (e.g., B.Ed)",True,18.0,False,True,True,5.0,5.0,5.0,5.0,5.0,5.0,5.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+166,166,"Medicine, Health Sciences",False,19.0,True,True,False,4.0,5.0,5.0,5.0,5.0,5.0,5.0,True,vision,Parental Pressure,0,0,0,0,0,0,1,0,0,0
+167,167,Others,True,22.0,True,True,False,3.0,3.0,3.0,3.0,3.0,3.0,2.0,False,positivity,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+168,168,"Art, Music or Design",False,21.0,True,True,True,4.0,5.0,5.0,5.0,5.0,4.0,2.0,True,positivity,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+169,169,"Teaching Degree (e.g., B.Ed)",True,20.0,False,True,True,4.0,4.0,4.0,4.0,4.0,4.0,4.0,True,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+170,170,Engineering Sciences,True,18.0,True,True,True,4.0,3.0,4.0,4.0,3.0,3.0,4.0,False,passion,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+171,171,Engineering Sciences,False,18.0,False,False,True,3.0,3.0,4.0,4.0,4.0,3.0,4.0,False,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+172,172,"Art, Music or Design",True,21.0,False,True,True,3.0,4.0,4.0,4.0,5.0,4.0,5.0,True,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+173,173,"Art, Music or Design",True,19.0,True,True,False,2.0,2.0,2.0,2.0,1.0,2.0,2.0,False,passion,Not able to take a Financial Risk,0,0,0,0,0,1,0,0,0,0
+174,174,Others,True,20.0,False,True,True,2.0,3.0,3.0,3.0,3.0,3.0,3.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+175,175,Engineering Sciences,True,20.0,False,False,True,2.0,1.0,1.0,2.0,3.0,1.0,3.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+176,176,Engineering Sciences,True,20.0,True,True,True,4.0,5.0,5.0,4.0,5.0,5.0,5.0,False,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Not able to take a Financial Risk",0,0,0,0,0,1,0,0,0,1
+177,177,"Art, Music or Design",True,19.0,True,True,True,4.0,5.0,5.0,5.0,5.0,5.0,5.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+178,178,Humanities and Social Sciences,False,19.0,True,False,False,2.0,2.0,1.0,2.0,2.0,2.0,3.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+179,179,Engineering Sciences,False,18.0,False,True,True,3.0,3.0,2.0,2.0,3.0,3.0,2.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+180,180,Others,True,20.0,True,True,False,4.0,5.0,4.0,4.0,3.0,5.0,5.0,True,passion,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",0,0,0,1,0,1,1,0,1,1
+181,181,Engineering Sciences,True,22.0,False,False,True,4.0,3.0,4.0,4.0,5.0,3.0,4.0,False,passion,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,1
+182,182,Others,True,19.0,False,True,True,4.0,3.0,3.0,4.0,4.0,3.0,3.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+183,183,Engineering Sciences,True,19.0,False,True,True,3.0,4.0,5.0,5.0,4.0,4.0,2.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+184,184,"Economic Sciences, Business Studies, Commerce and Law",False,20.0,False,True,True,4.0,5.0,5.0,4.0,5.0,4.0,5.0,True,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+185,185,"Art, Music or Design",True,19.0,False,True,True,3.0,4.0,3.0,4.0,5.0,4.0,4.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+186,186,Engineering Sciences,False,17.0,False,True,True,5.0,5.0,4.0,4.0,5.0,5.0,4.0,False,positivity,"Lack of Knowledge, Not able to take a Financial Risk",0,0,0,1,0,1,0,0,0,0
+187,187,Others,False,21.0,True,False,True,3.0,1.0,2.0,3.0,2.0,2.0,1.0,True,passion,Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else),0,0,0,0,0,0,0,0,0,1
+188,188,"Economic Sciences, Business Studies, Commerce and Law",True,20.0,True,True,False,4.0,4.0,4.0,4.0,4.0,4.0,2.0,True,work ethic,Academic Pressure,0,0,0,0,0,0,0,0,1,0
+189,189,"Economic Sciences, Business Studies, Commerce and Law",False,18.0,True,True,False,4.0,5.0,3.0,2.0,3.0,1.0,1.0,True,passion,"Lack of Knowledge, Mental Block, Not able to take a Financial Risk",0,0,1,1,0,1,0,0,0,0
+190,190,Engineering Sciences,False,17.0,False,False,True,3.0,4.0,4.0,2.0,3.0,2.0,3.0,False,passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,0,1,1,0,0,0,1,0
+191,191,Others,True,21.0,True,True,False,4.0,5.0,4.0,5.0,4.0,4.0,4.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+192,192,Others,True,19.0,True,False,True,4.0,4.0,4.0,5.0,4.0,4.0,4.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
+193,193,"Art, Music or Design",True,20.0,False,True,True,2.0,3.0,2.0,,2.0,3.0,2.0,False,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+194,194,Engineering Sciences,False,20.0,False,True,True,4.0,4.0,4.0,,4.0,4.0,4.0,False,work ethic,No Reason,1,1,0,0,0,0,0,0,0,0
+205,205,Engineering Sciences,True,20.0,False,True,True,4.0,4.0,5.0,,4.0,4.0,5.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+214,214,Engineering Sciences,True,19.0,False,True,True,,5.0,4.0,3.0,4.0,4.0,5.0,True,positivity,No Reason,1,1,0,0,0,0,0,0,0,0
+215,215,Engineering Sciences,True,19.0,False,True,False,2.0,2.0,2.0,2.0,2.0,2.0,2.0,False,work ethic,"Just not interested! (Want to work in the corporate sector or for the government or pursue research or something else), Academic Pressure",0,0,0,0,0,0,0,0,1,1
+216,216,Engineering Sciences,True,22.0,True,True,True,3.0,4.0,4.0,3.0,4.0,4.0,3.0,False,vision,No Reason,1,1,0,0,0,0,0,0,0,0
+217,217,Engineering Sciences,False,19.0,False,True,False,1.0,2.0,2.0,3.0,3.0,2.0,2.0,False,passion,Lack of Knowledge,0,0,0,1,0,0,0,0,0,0
+218,218,Engineering Sciences,True,18.0,False,unknown,True,3.0,5.0,3.0,5.0,5.0,5.0,2.0,False,passion,No Reason,1,1,0,0,0,0,0,0,0,0
